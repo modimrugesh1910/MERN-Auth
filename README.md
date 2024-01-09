@@ -2,7 +2,9 @@
 
 * MERN Stack - User Registration and Login Example
 
-    How to start?
+    ## Deployed UI - https://mern-auth-front-2xns.onrender.com/login
+
+    How to start in local?
 
     ***
         git clone https://github.com/modimrugesh1910/MERN-Auth.git
@@ -33,3 +35,7 @@
     ***
     Now you will find node server is running on 8080 port.
 
+    MongoDB - Deployed on MongoDB Atlas - 
+    URL - mongodb+srv://mrugesh:8VELEGzdD3aImI8X@mern-auth.qsidx23.mongodb.net/auth?retryWrites=true&w=majority
+
+    
