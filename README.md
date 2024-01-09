@@ -23,6 +23,8 @@
     ***
     Now you will able to find client app is running on 3000 port.
     
+    While running API in local please update baseURL from https://mern-auth-server-drpy.onrender.com:10000/api/ to http://localhost:8080/api/
+
     
 * Back-End part - NodeJS, ExpressJS, MongoDB, JWT technologies used.
 
